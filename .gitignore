@@ -1,0 +1,29 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Ignore build artifacts
+*.spec
+dist/
+build/
+
+# Ignore logs
+logs.txt
+
+# Ignore installer binaries
+BetterDiscord-Windows.exe
+BetterDiscordMonitor.iss
+
+# Ignore icons (optional—keep them if you want people to reuse)
+# Uncomment the next 3 lines if you don’t want icons
+#icon.ico
+#icon.png
+#icon.svg
+
+# Ignore OS files
+.DS_Store
+Thumbs.db

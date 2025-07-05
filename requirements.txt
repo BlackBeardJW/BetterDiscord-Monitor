@@ -1,0 +1,6 @@
+psutil
+requests
+pystray
+Pillow
+pyinstaller
+plyer
