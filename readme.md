@@ -54,7 +54,7 @@ logging.basicConfig(
     format="%(asctime)s [%(levelname)s] %(message)s"
 )
 Replace each logging.info(...) with:
-print()
+print(...)
 
 📦 Building an EXE (Optional)
 You can package the project into a standalone EXE with PyInstaller:
