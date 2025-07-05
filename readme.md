@@ -76,6 +76,7 @@ A tray icon provides a quick way to exit or open a live log viewer.
 This project is licensed under the MIT License (see LICENSE file).
 
 🙏 Acknowledgements
+
 BetterDiscord
 
 pystray
